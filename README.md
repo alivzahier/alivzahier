@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Welcome, I know you're there
+Have fun looking around
 <!--
 **alivzahier/alivzahier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
